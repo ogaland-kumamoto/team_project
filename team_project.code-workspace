@@ -1,0 +1,18 @@
+{
+    "settings": {
+        "files.associations": {
+            "*.module": "php"
+        },
+        "files.eol": "\n",
+        "editor.formatOnSaveMode": "modifications",
+        "editor.formatOnSave": true
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "extensions": {
+        "recommendations": []
+    }
+}
