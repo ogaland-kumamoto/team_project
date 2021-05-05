@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="QOVCJyhHI1jUdHXr3SDM" name="ページ1">
-        <mxGraphModel dx="1325" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2338" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -191,8 +191,8 @@
                         <mxPoint x="360" y="450" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="63" value="混乱しやすい&lt;br&gt;node.jsのライブラリとしても&lt;br&gt;インストールできる。いる？？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
-                    <mxGeometry x="-100" y="585" width="190" height="20" as="geometry"/>
+                <mxCell id="63" value="混乱しやすい&lt;br&gt;node.jsのライブラリとしても&lt;br&gt;インストールできる。いる？？&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(27 , 43 , 53) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;ubuntu mono&amp;#34; , monospace ; font-size: 13.6px ; text-align: left ; background-color: rgb(240 , 240 , 240)&quot;&gt;npx rettier --check .&lt;br&gt;&lt;/span&gt;すると、.prettierrcでSyntaxエラー&lt;br&gt;https://prettier.io/docs/en/install.html" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+                    <mxGeometry x="-100" y="585" width="190" height="85" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="63" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
